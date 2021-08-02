@@ -5,7 +5,7 @@ I am a Java Developer who does work for Minecraft Networks.
 </p>
 
 <p align="center">
-- 📫 Contact me through discord: mandrill#6174 on discord
+- 📫 Contact me through discord: mandrill#6174
 </p>
 
 <p align="center">
