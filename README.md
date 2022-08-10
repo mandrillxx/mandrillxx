@@ -1,11 +1,7 @@
 <h2 align="center"><b>Hi there 👋</b></h2>
 
 <p align="center">
-I am a Java Developer who does work for Minecraft Networks.
-</p>
-
-<p align="center">
-- 📫 Contact me through discord: mandrill#6174
+I am proficient in JavaScript & Java
 </p>
 
 <p align="center">
