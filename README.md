@@ -1,7 +1,8 @@
 <h2 align="center"><b>Hi there 👋</b></h2>
 
 <p align="center">
-I am proficient in JavaScript & Java
+I like to think of myself as ambitious. <br/>
+Currently working on whatever I find interesting
 </p>
 
 <p align="center">
